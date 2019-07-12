@@ -274,7 +274,7 @@ _veh =
 	"assault",
 	_difficulty,
 	_side
-] call DMS_fnc_SpawnAITank;
+] call DMS_fnc_SpawnAIVehicle;
 
 // Enable smoke on the crates due to size of area
 {
